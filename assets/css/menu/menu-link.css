@@ -15,8 +15,10 @@
 .menu__link:hover {
     color: #da2b1f;
     font-size: bold;
+    text-decoration: none;
 }
 
 .menu__link--activo:hover{
     color:rgb(30, 255, 0);
+    text-decoration: none;
 }
